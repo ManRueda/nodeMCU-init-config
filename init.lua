@@ -1,0 +1,3 @@
+--file.open("lua-wifi-test.lua", "w")
+--file.close()
+--node.restart()
